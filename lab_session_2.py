@@ -28,4 +28,4 @@ rank_A=np.linalg.matrix_rank(A)
 print("RANK OF MATRIX A:\n",rank_A)
 pseudo_inverse_A=np.linalg.pinv(A)
 print("PSEUDO INVERSE OF A:\n",pseudo_inverse_A)
-
+print(A)
